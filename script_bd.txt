@@ -1,0 +1,36 @@
+CREATE TABLE clientes (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nome VARCHAR(255) NOT NULL,
+    cpf VARCHAR(20) NOT NULL,
+    telefone VARCHAR(30) NOT NULL,
+    email VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE enderecos (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    cliente_id INT NOT NULL,          
+    endereco VARCHAR(255) NOT NULL,       
+    bairro VARCHAR(100) NOT NULL,          
+    cidade VARCHAR(100) NOT NULL,           
+    estado CHAR(2) NOT NULL,               
+    FOREIGN KEY (cliente_id) REFERENCES clientes(id)
+);
+
+CREATE TABLE contratos (
+    id INT AUTO_INCREMENT PRIMARY KEY,     
+    cliente_id INT NOT NULL,               
+    contrato VARCHAR(50) NOT NULL,  
+    FOREIGN KEY (cliente_id) REFERENCES clientes(id)
+);
+
+CREATE TABLE cobrancas (
+    id INT AUTO_INCREMENT PRIMARY KEY,      
+    cliente_id INT NOT NULL,                    
+    contrato_id INT NOT NULL,  
+    numero_parcela INT NOT NULL,             
+    data_vencimento DATE NOT NULL,          
+    valor_parcela DECIMAL(10, 2) NOT NULL,  
+    FOREIGN KEY (cliente_id) REFERENCES clientes(id),
+    FOREIGN KEY (contrato_id) REFERENCES contratos(id)
+);
+

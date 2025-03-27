@@ -1,0 +1,151 @@
+nome;cpf;endereco;bairro;cidade;estado;telefone;email;numero_parcela;contrato;data_vencimento;valor_parcela
+Letícia Silveira;61497820502;Via Costela, 53;Vila Nova;Farias;DF;+55 84 8235-7971;noah30@yahoo.com.br;1;1d5377bb-9eb7-4f54-8524-8152c418f67f;20/05/2024;414.93
+Larissa Cardoso;71495602370;Passarela de Melo, 189;Bandeirantes;Monteiro da Praia;SP;(061) 1315 6885;castrorenan@viana.com;12;c737fdd5-690e-4d7d-9859-b391e3c714fc;09/05/2024;4985.06
+Noah Silveira;91560278340;Colônia de da Mota, 794;Vila Copacabana;das Neves;PA;31 7676-6073;limajoao-pedro@pinto.com;8;ad2fd090-e698-4437-ba20-f868cb8aa28d;23/02/2025;262.5
+Giovanna Carvalho;14076352807;Estação Elisa Rocha, 32;Novo São Lucas;Silva;AC;+55 (041) 5409 8625;lara05@da.org;8;e893dd98-7736-4d58-97a2-07d3c23eff8a;29/09/2024;1778.0
+Kevin Cardoso;40687352126;Loteamento de Cardoso, 25;Gutierrez;Costa Verde;PB;21 9647 9835;vitor-gabrielteixeira@duarte.br;2;fb9a4b7a-c89b-432c-910e-f7e6ff3ca8c6;26/05/2025;1844.52
+Laís Melo;69548203774;Setor Diego da Paz, 368;Vila Da Amizade;Sales de Moreira;AM;(011) 4483 6777;zmoraes@rodrigues.br;12;145a42ee-9d8b-4023-a72b-a0eb250b4a16;17/01/2026;4568.34
+Lucas Gabriel das Neves;76029531859;Loteamento de Alves, 398;Caetano Furquim;Lima Verde;SC;+55 84 0880 2625;ian81@uol.com.br;12;394b5674-bbbe-48ad-8a67-d539c1518775;15/04/2025;3389.65
+Agatha Carvalho;84526130753;Estação de Martins, 477;Minas Caixa;Pinto;AL;+55 (011) 5057 5062;juliamartins@nunes.com;6;53042913-c4bd-47a1-8940-f0d14b51c54c;14/06/2024;4501.43
+João Gabriel Viana;35920714670;Pátio Valentina Nogueira, 85;Havaí;Vieira;TO;51 8003 1515;freitasana-sophia@azevedo.org;5;eb8b8077-f132-4e05-89be-1e22af72d326;22/11/2025;323.81
+Srta. Clarice Costa;80149237588;Vale de Pinto, 43;Pirineus;Dias;MA;+55 11 5509-4435;cardosojoaquim@rocha.br;12;cf50c7a7-106a-4c85-8369-47537dee8a9a;05/07/2025;2338.43
+Sr. Enrico Costela;73841590241;Conjunto Vitor Gabriel Caldeira, 15;Vila Esplanada;Pereira do Norte;AC;21 3560 6831;glopes@peixoto.br;12;a679c8de-bf96-4ed5-a95e-b1ac59c3a0f9;13/04/2024;534.23
+Dra. Bianca Melo;7198562485;Vereda Juliana da Mata, 96;Minas Caixa;Caldeira;AL;61 4976 4624;cgoncalves@bol.com.br;7;facb6bba-ff47-4b5f-adaf-adcd9bdbc218;12/04/2025;2115.63
+Maysa Pereira;25437180608;Esplanada de Ramos;Madri;Castro do Campo;SE;(021) 4087-2752;wsouza@gmail.com;8;ccf2db47-05d4-4ff9-9d4a-5846fb919edd;16/08/2025;1337.26
+Bruna Oliveira;46179508348;Aeroporto Vieira;Xodo-Marize;Mendes de Minas;MA;(011) 0027-4403;crodrigues@farias.org;3;b9616385-1cc0-482d-9d5b-500f9749885f;22/01/2025;1886.16
+Beatriz da Rocha;76832045107;Rodovia Luiz Gustavo Ramos, 1;Baleia;Ramos;PB;31 1849-1878;valentina68@das.com;4;06927fb2-93e5-493d-a8b1-ac02ccf313c7;26/11/2025;3371.04
+Rafael Ramos;34652087900;Alameda Guilherme Almeida, 40;São Paulo;Monteiro de Goiás;BA;(061) 4753 4573;maria-luizada-conceicao@barros.com;9;f5e4c29f-29f9-465a-94ab-b735a61aeb68;01/06/2025;1478.95
+Bárbara da Luz;15372068426;Viaduto Bruna Viana, 124;Jardim Vitoria;Oliveira do Sul;RR;14 98233 5452;goncalvesraul@ig.com.br;10;1cb97c53-e2e1-4cc4-bdad-784d0131d9a8;07/07/2025;779.66
+Luna Barbosa;16395874209;Feira das Neves, 6;Padre Eustáquio;Silveira Alegre;ES;+55 (021) 4599-3514;carlos-eduardo12@uol.com.br;7;f40cf6b5-b546-497c-81bc-5268850b0c55;07/12/2025;2266.55
+Carolina Lopes;30261849506;Morro de Correia, 30;Vila Inestan;Barros;RS;81 7744-6628;ksilveira@hotmail.com;9;d6699bce-9c63-4309-b461-cf63414ce8a4;14/05/2024;2893.63
+Maria Sophia Ribeiro;24908365105;Vereda de Rocha, 516;Túnel De Ibirité;Lopes de Goiás;AP;(084) 1659 7111;costastephany@bol.com.br;1;d0012ece-1e0e-42f8-a0d5-7ecc59ae01c7;22/10/2025;4469.94
+Felipe Teixeira;64831925764;Travessa de Santos, 2;Esperança;Melo;AC;31 2185-2314;ddas-neves@uol.com.br;5;7897dd97-481f-4d11-8c93-f022bd8629da;16/01/2026;1045.63
+Mirella Silveira;98360725195;Estação Eduarda Cardoso, 52;Renascença;Pires;RO;11 4355-5357;psouza@rodrigues.com;8;39f951cb-1bc6-4d50-87ca-585b3d07807b;22/07/2024;4476.37
+Davi Lucas Gonçalves;2497653810;Condomínio Alves;Pilar;Azevedo do Norte;DF;+55 11 5887-7089;ralves@da.net;7;2847fe01-d4fa-4f1f-b976-743ac8d83626;03/07/2024;4816.9
+Maria Vitória Nogueira;93215470888;Vila de Lima;Vila Engenho Nogueira;Cunha;PI;+55 (021) 1790-5203;maria-cecilianovaes@da.net;8;ad7ad914-4d38-419e-97f3-57171446edfa;27/07/2024;919.17
+Srta. Luiza Castro;52641308762;Loteamento Gabrielly da Paz, 32;Vila São Dimas;Sales das Pedras;AM;(071) 8205 0235;gda-mata@uol.com.br;1;6f6fa186-fa45-4f00-b003-9ba6ef164ec5;04/11/2025;4210.92
+Sra. Joana Nascimento;58192730441;Feira de da Cunha, 3;Marilandia;Cavalcanti;BA;71 2901-7264;ana-luizaazevedo@melo.com;8;c8e0e1a0-a29c-472c-9259-612e5744862c;29/12/2025;1597.28
+André Pinto;27936540865;Ladeira de Dias, 404;Garças;Lima do Campo;BA;(011) 99471-9477;camposbenjamin@monteiro.org;9;68f93240-830c-4b57-9518-94cd2b300272;22/05/2024;574.7
+Kevin Ferreira;98014723597;Lagoa de Lopes;Tiradentes;Barros;MA;+55 31 4221-6178;augusto17@farias.org;7;0cba44ef-6df7-4713-9961-a5b4452a27f9;05/07/2025;1238.41
+Luiz Fernando Nogueira;12085346707;Via Martins, 53;Lorena;da Conceição Verde;PR;+55 11 3471 9282;andre93@yahoo.com.br;7;68d5bc18-84e2-4ae7-93de-58987dc77913;17/05/2025;3304.44
+Augusto Gonçalves;35071642808;Fazenda de Azevedo, 65;Santa Isabel;Viana;MS;(011) 2832-6604;da-matavitor-hugo@almeida.br;4;2150589c-27ba-46c9-bdc1-ef3d2938526d;22/03/2025;3014.31
+Mariana Rodrigues;56429138755;Travessa de Silveira, 77;Marçola;Pires de Goiás;BA;84 7697 1475;emanuel53@sales.org;4;ef092013-97ff-4561-808c-f53ed163cfae;04/02/2025;519.98
+Nicolas Nogueira;4137926840;Pátio de Cunha;Nova Floresta;Cardoso do Campo;PR;(021) 3031 7792;alexia41@jesus.br;4;9a069a7a-c098-4fdb-8460-0066bab3dc45;26/09/2025;4016.67
+Vitor Hugo da Conceição;68203719503;Trecho da Rosa;Aarão Reis;Vieira de Minas;DF;51 99538 1843;uda-cunha@bol.com.br;12;e280c38c-649b-43af-aa01-10f18ae05a83;06/08/2025;4058.2
+Diogo Barros;30476195225;Alameda de Silva, 69;Vila Nova Cachoeirinha 2ª Seção;Cardoso;PE;+55 51 8629 6078;valentina70@ig.com.br;9;37e68caf-281e-4cde-bffe-51f2c032bcca;01/07/2024;2016.27
+Sofia Teixeira;60972841520;Viaduto Kevin Cardoso;Jaraguá;Santos do Norte;AL;(041) 0502-5884;amanda96@silva.br;7;084fc3e1-4684-4e28-98ee-b9ce97c4c391;22/06/2025;1046.79
+Vitor Gabriel Campos;80637429583;Praia Rodrigues, 11;Barão Homem De Melo 1ª Seção;Almeida das Flores;AP;+55 (011) 6421-0746;eduardo07@bol.com.br;12;48c2d995-7fe4-46e4-a5d5-2fa4ac6e69f8;11/12/2024;735.72
+Camila Fernandes;83169724096;Via de Fogaça, 858;Aguas Claras;Nogueira;AM;+55 11 4616-7422;otaviocavalcanti@sales.net;10;2dd2120b-bf17-4b7c-9bbe-fcff13509dec;26/09/2024;3711.25
+Bruno da Paz;68049512398;Setor de Nunes;Conjunto São Francisco De Assis;Moraes de Goiás;PB;+55 21 3872 3009;fernandada-rocha@hotmail.com;2;562f5eee-7541-4971-9761-68d4b5beff70;14/10/2025;2436.53
+Lucas Rezende;82165437008;Morro Farias;Novo São Lucas;Oliveira;MT;41 8201-3734;camilada-cruz@cardoso.br;10;fd9a0117-be72-4aae-b94f-e6e0ee87a7ec;20/09/2025;2738.09
+Luiz Gustavo da Luz;98673014557;Vereda Fernandes, 89;Beira Linha;Martins de Silveira;PB;11 5775 4912;nathanaraujo@pinto.org;7;0fcd789a-970f-4430-ad1e-8f580348422e;15/01/2026;4205.38
+Luna Mendes;53176482035;Vila de Azevedo, 716;Pompéia;Melo;SC;+55 61 1643 9450;maria-claragomes@rezende.com;2;44b4412e-db5b-4fbc-bd66-5fc6d75b656c;12/11/2024;3156.92
+Luiza Ramos;96341705280;Trecho Rafael Santos, 15;Atila De Paiva;da Costa;RN;(084) 7396-3974;ada-conceicao@aragao.br;6;a6a35eb2-9c9b-4c7c-80e2-0fe285ca8d24;04/08/2025;4193.94
+Ryan Vieira;3694517839;Rodovia de Dias, 34;São João;Silva;MA;21 2219-9669;juannunes@da.br;1;6a14c7b6-aabd-4415-8422-cb1c056a9aa5;07/11/2025;2085.68
+Maria Vitória da Cunha;17209846549;Travessa Isabella Rodrigues, 2;Conjunto Floramar;Fernandes;RJ;+55 41 1940 6292;tazevedo@hotmail.com;5;84d3a6b3-181e-43bb-8791-ee975ff00664;08/09/2024;3239.25
+Gabrielly Nunes;9621358795;Fazenda Cardoso, 25;Alto Das Antenas;Jesus;ES;(051) 6569-2451;gda-mata@da.br;7;08e0e58c-5878-4377-8eb5-ee76fe4a7051;09/03/2026;1358.19
+Emanuelly Ramos;28095164720;Rodovia Maria Eduarda Moraes, 80;São Jorge 1ª Seção;Silveira;DF;+55 21 9266-8975;vitor32@yahoo.com.br;11;e8eefbe8-8b14-491b-af12-9a6b4fe62af6;05/09/2024;3373.13
+Emilly Lopes;82960154398;Pátio da Mata, 5;Conjunto Santa Maria;Rodrigues de Minas;PI;+55 21 0671-8430;yasminsouza@uol.com.br;3;acc39810-c6c9-4232-9fa9-abcfbf307ed5;09/04/2025;1930.44
+Clarice Rocha;42078591602;Praça de da Rosa, 16;Palmeiras;Silva do Amparo;MA;+55 (031) 8157 6262;marianemonteiro@castro.net;4;b4e553ce-200f-4f2f-8c0c-c39495f737b9;30/03/2024;460.71
+Sra. Letícia Moreira;17592084341;Setor Heloísa Porto, 558;Vila Betânia;Lima;MA;+55 41 97854-9633;kfernandes@bol.com.br;1;048a1c2b-5255-4b43-a43a-3dbc583011de;28/11/2025;3848.6
+Renan da Cruz;90371486203;Setor Araújo, 54;Vila Paquetá;da Mota de da Paz;RN;(011) 99283-1555;henrique18@ig.com.br;3;fd30bbe1-eacb-49da-96d5-8ddad0c124ce;05/10/2025;4178.66
+Kevin Barros;51470263807;Aeroporto Julia Mendes, 51;Vila Suzana Primeira Seção;Pereira da Prata;RR;(084) 6456 7861;wgoncalves@bol.com.br;6;a18ff7d4-b880-40ce-b03c-325b2786faa5;20/10/2025;2478.83
+Murilo Cardoso;2513786408;Rodovia Maria Sophia das Neves, 56;Corumbiara;Costela do Galho;PA;+55 41 97868-5637;fernanda25@cardoso.com;6;3f587066-b0c5-41c8-9672-57bd1e6e5009;16/04/2025;551.63
+Alice Santos;81394726546;Pátio Cauã Alves, 14;Pirineus;Ribeiro de das Neves;PE;11 5189-2840;fernandesjoao-lucas@ig.com.br;6;3956b352-af67-413b-97de-83545b91aea4;03/10/2024;2421.66
+Marcelo Caldeira;78461293509;Viela Alves;Barão Homem De Melo 3ª Seção;Silveira;RS;61 2432 7460;lorenzosantos@cavalcanti.net;4;534133de-c6f5-4f81-8e17-9989e17462f7;03/05/2024;3426.44
+Ana Beatriz Fogaça;64387510900;Rua Noah Melo, 33;Vila Nova Dos Milionarios;Souza Alegre;MT;+55 71 9419-7226;costelarebeca@uol.com.br;1;100b079a-203c-445d-bad0-916831e52426;26/01/2025;440.83
+Marina Farias;95364801233;Largo Enrico Ribeiro;Vila Maria;da Mota de Martins;GO;+55 (084) 3305 3928;isabellysilveira@lopes.org;4;5b9a3193-b7ec-48c9-b626-eb91154748a0;25/11/2025;2173.22
+Pedro Lucas Campos;14359802633;Ladeira Vicente Gonçalves, 83;Nossa Senhora De Fátima;Silva de Correia;MA;11 6091 4648;gcardoso@caldeira.org;12;c21e448e-0ff8-45f1-9b45-615944987577;01/08/2025;1699.76
+Isadora Pereira;19746235052;Vale de Gonçalves, 9;Mala E Cuia;Duarte;MS;11 5773 7452;wpereira@rezende.br;4;79f49feb-78e1-4c1b-99cb-68f9d6294274;28/11/2024;1034.26
+Esther Gomes;89240673547;Viaduto Murilo Cavalcanti, 1;Aguas Claras;Farias;RR;+55 71 4894 5313;wda-mota@ig.com.br;7;96ac75c4-2c70-4c04-a52b-976b208f9f21;24/07/2024;628.56
+Eduarda Rezende;72435869100;Sítio Maria Eduarda Azevedo;Vila Suzana Segunda Seção;da Cruz;AC;+55 (061) 1017 5015;balves@gmail.com;10;cf235506-a0e5-4a12-85fe-963dc6bb1da9;15/12/2025;159.85
+Davi Lucca Barros;48201965701;Praia Vitória Lopes, 99;Cdi Jatoba;da Mota;PB;+55 (071) 7896 4110;cauemoraes@gmail.com;7;fd47e858-d6d6-45e0-9093-d42b4d14a154;24/05/2024;2242.73
+Dr. Marcos Vinicius Sales;13945026725;Quadra Novaes, 274;Esperança;Cavalcanti;AM;+55 71 5873 0059;kamillygoncalves@bol.com.br;3;390559e1-6457-411c-b895-9c44ff3a4832;06/11/2024;3579.43
+Lucas da Luz;49728165382;Avenida de Martins;Barro Preto;Barros;SC;51 0160 6670;caueda-paz@costela.com;1;47c69f30-60d6-4338-8956-37ad9300db76;04/01/2025;3730.64
+João Gabriel Santos;3621857940;Pátio Cardoso, 68;Jardim América;Freitas da Mata;RN;+55 31 0488 1485;leandromoura@hotmail.com;6;ae45a70c-02bc-4cc7-ae54-b1c97d89d8df;07/12/2025;3336.95
+Enrico da Paz;98513670286;Esplanada de Rezende, 790;Vila Nova Cachoeirinha 2ª Seção;Moreira do Campo;CE;+55 (051) 0325 8138;costelalucas@caldeira.net;3;76722c1c-065b-416f-aeeb-134e1676b32b;28/03/2024;2754.86
+Eduarda Lima;54830291605;Ladeira Alice Barros, 806;Vila Havaí;Pires;PI;(081) 0074 5925;hcosta@yahoo.com.br;2;797a4c59-398d-474f-aabe-bc8e193ed6f7;20/11/2025;872.72
+Ana Luiza Costela;92178546030;Estrada Maria Sophia Gomes, 17;Leonina;Nunes;AP;14 99921 0777;iancarvalho@fogaca.com;11;40363f1e-4650-4d51-87d6-b76f9260ac9b;24/10/2024;918.1
+João Gabriel Rezende;58207493160;Fazenda Danilo Almeida, 61;Novo São Lucas;Moreira da Praia;AM;(051) 0750 5736;moreiraalicia@ig.com.br;4;725ed27d-d474-4865-8788-1e8b6af34f94;15/11/2024;2366.26
+Thales da Cruz;2436795134;Campo de Nogueira, 81;Vila Nova Cachoeirinha 1ª Seção;Azevedo;MG;81 3184 0046;vieiradavi-lucca@yahoo.com.br;4;b8bb6b13-3081-439f-b1eb-e72fdf221971;17/08/2025;1235.07
+João Gabriel Mendes;13074982560;Área Clara Gomes, 2;Caetano Furquim;Jesus;AP;+55 (011) 5800 4573;das-nevesdiego@uol.com.br;2;97278088-3c71-46d7-bcb5-4ae3eec79917;13/08/2025;4089.88
+Luiz Gustavo Rocha;1523478950;Fazenda Nunes;Teixeira Dias;Cavalcanti;ES;14 99407 6508;cavalcantijoao-vitor@yahoo.com.br;10;8dda23e1-991e-4137-86e2-3bce1dee181a;27/04/2024;161.29
+Enzo Nogueira;75601392480;Alameda Joaquim Lima, 757;São Benedito;da Luz dos Dourados;GO;+55 61 9021 5985;souzastephany@melo.com;5;826d3c59-70ac-4d41-9357-2b51799c7248;29/05/2024;2327.65
+Dr. Juan Aragão;43271905860;Lago Melo, 10;Ouro Minas;Mendes do Galho;RN;+55 (041) 4181-3062;beatriz43@ig.com.br;2;6673fc2b-f98b-4a77-bb1c-61c892f14b21;22/05/2024;2743.64
+Yago Cardoso;47569283155;Lago Lucas Souza, 1;Vila Inestan;Farias;SE;+55 51 2924 2917;catarinada-cruz@bol.com.br;7;6ae6bdb0-9bf6-47ce-b6fe-df8df5195d81;15/08/2024;3341.86
+Diego Pinto;13675942864;Favela Noah Duarte, 73;Embaúbas;Jesus;PI;+55 11 1790-1714;davibarros@uol.com.br;11;18cb83be-b00a-4ab3-bdf3-a5e59c4ec1d5;09/03/2025;2063.22
+Sr. Benício Barbosa;13248795646;Esplanada Yuri Caldeira, 22;Dom Bosco;Farias;RS;71 1303-5189;pedrocosta@gmail.com;9;1f4d2cb6-8940-40e6-9ef6-0f47585f8b2f;02/01/2025;4055.12
+Maria Eduarda da Mata;16890752449;Esplanada Rodrigo da Cruz, 21;Piratininga;Cunha;BA;+55 (021) 0039 4704;imonteiro@yahoo.com.br;2;86f124ff-1f51-4e08-bdcb-82d2f9637668;28/10/2024;1809.27
+Marcelo Castro;89650714294;Ladeira Correia, 58;Vila Cemig;Costela de Dias;AC;(071) 7782 1306;wcaldeira@gmail.com;2;e09069dc-6368-4f5e-86d7-7f6e25adac16;23/10/2025;3462.05
+Lorenzo Martins;72306481571;Colônia Cauê Araújo, 505;Monte Azul;da Mata dos Dourados;MA;+55 (061) 1306 7660;fariasfrancisco@nascimento.com;11;2f85e2f9-aa57-4f43-acc8-11c9ed42d1d3;18/11/2024;1289.71
+Dr. João Felipe Correia;75384160993;Distrito Felipe Ribeiro, 3;Vila Independencia 3ª Seção;Melo de Monteiro;RR;+55 81 6283 1770;matheus38@ig.com.br;3;319448da-9e0c-436d-b0da-ab5a22d67e44;27/07/2024;966.95
+Beatriz Correia;26539781482;Largo Santos, 62;Madre Gertrudes;Viana de Freitas;PA;71 4832-5598;caldeiraluna@gmail.com;12;75a36e48-3858-4f28-a515-4698de63e71e;09/08/2024;1556.42
+Sr. Isaac Moura;93180276487;Colônia Souza, 969;Santa Efigênia;Lopes Paulista;PR;(031) 2562-9126;paulo08@yahoo.com.br;6;f5beebd1-46d1-42a0-951c-ba20417b2e3d;12/07/2024;2940.06
+Eduarda Moreira;96250814701;Vale de Mendes, 6;Pongelupe;Pires do Galho;PI;(084) 4332-9135;alanacampos@hotmail.com;5;d9586f6f-2db9-456a-8fb0-7ba600baed90;10/06/2024;243.58
+Ryan Costela;31480759279;Pátio Gustavo Nascimento, 36;Santa Rosa;Aragão do Campo;SP;(071) 0861 0678;marcos-vinicius23@cardoso.net;6;269df43d-8100-46b3-b840-fedaa1534ef4;16/01/2026;2430.92
+Emanuel Cardoso;1327589621;Lagoa Gabrielly da Rocha, 49;Conjunto Califórnia Ii;Carvalho dos Dourados;ES;+55 31 7067 2080;nporto@nunes.br;4;74217c90-f73f-4816-b729-aa01993d49de;22/06/2025;1571.92
+Vitor Hugo Castro;25634718007;Sítio de Teixeira, 89;Zilah Sposito;da Conceição;SP;11 8369 6995;mourabernardo@uol.com.br;9;5c15c400-87c9-49f2-b6ff-d22cb1db1064;19/06/2025;1406.2
+Mirella Araújo;62430951770;Vale de da Cruz;Canadá;Nascimento;MS;+55 71 6939-7539;luccacarvalho@da.net;12;5216611c-2794-49fe-9687-4a075cdbdb5e;17/08/2024;3734.78
+Marina da Mata;85496137209;Estação de Lima, 6;Funcionários;Ramos;PE;+55 (041) 7592-1153;marinaalmeida@bol.com.br;5;3ef502ed-da89-4b51-b195-cffbe6fc27b6;22/07/2025;430.2
+Maysa da Cruz;65172840362;Campo Rocha, 86;Novo Aarão Reis;Castro das Flores;AL;+55 51 6221 0738;zmoura@teixeira.com;6;eeac0d30-00fb-41ef-bf49-fe2d762db65f;13/02/2025;2767.74
+Lara Moreira;28051479602;Esplanada Novaes, 71;Glória;Lopes da Serra;PR;14 99494 8182;rebecadias@uol.com.br;11;29f5ddbc-fca4-4abf-8339-8de286e7fdda;15/12/2025;391.62
+Henrique Ferreira;69012345707;Favela Lucas Gabriel Peixoto, 139;Nova Granada;da Costa do Sul;AM;51 99783 8331;cavalcantiesther@hotmail.com;6;b057d3f5-3474-4c3a-bf71-de7d85a3599e;17/10/2025;2864.36
+Esther Costela;48279360565;Jardim de Cardoso;Chácara Leonina;Campos Grande;AM;+55 61 9415-7081;camposjoao-vitor@ig.com.br;3;a4d33f89-a230-436b-9589-70d0fab34fc8;25/08/2024;4901.79
+Daniel da Luz;59260817340;Setor Melo;Diamante;Peixoto Alegre;RN;31 5872-4208;tcostela@hotmail.com;10;3b65f380-9282-4ea1-9d2a-9aeedc75ca73;15/12/2024;1932.01
+Bruna Fogaça;56708324938;Favela de Aragão, 1;Vila Madre Gertrudes 3ª Seção;Ferreira;RN;61 3890-8107;salesjoao-pedro@viana.com;9;5961f16b-d48b-4e8a-80b2-f00f4c9d0f55;26/09/2025;1697.68
+Henrique Moreira;60549381775;Estação Correia, 2;Conjunto Bonsucesso;Silva;PB;14 98597 3686;kaiquerezende@yahoo.com.br;4;30f51d3d-6f6c-45df-aaac-94077670ab36;16/07/2025;1084.74
+Joana Moura;53810726940;Residencial de Teixeira, 28;Vila Maloca;Cunha;SC;+55 (031) 7462-1176;da-rochagustavo-henrique@hotmail.com;1;8c100ef2-6f5b-48bf-aea2-7293fe08b7d2;07/04/2024;1872.81
+Enzo Gabriel Viana;80293614750;Fazenda Elisa Carvalho, 98;Dom Cabral;Lima;TO;+55 (051) 6901 4816;azevedolorenzo@gmail.com;3;af8a015a-ecc4-488a-b226-a155b1a34adb;01/01/2026;2254.42
+Emilly Cardoso;96718253030;Recanto de da Cunha, 29;São Jorge 2ª Seção;da Rocha do Oeste;TO;47 99637-3406;augustofogaca@peixoto.com;6;665ce3f8-33c9-442b-898e-4b264255f827;11/10/2024;2299.06
+Lara Moreira;6815427307;Vereda Alana Cardoso, 3;Nova Esperança;Moraes de da Cunha;RS;+55 (041) 2333 1273;gmoraes@bol.com.br;8;2e7f7aa5-35b0-4932-b5da-a1835cc2f4c8;13/03/2026;3430.99
+Daniela Pinto;45013296889;Lago de Cavalcanti, 5;Colégio Batista;Moraes das Pedras;RR;+55 21 0230 9041;luiza58@da.br;1;f1733978-5e92-4e1c-8144-4b7f60871263;18/05/2025;4752.31
+Enzo Gabriel Carvalho;39415260815;Residencial Fogaça, 58;Das Industrias I;da Mata de Jesus;PE;21 1537 0378;pedro-miguel01@gmail.com;10;d09a304d-464b-4764-a5a5-93aaf40a816d;21/12/2025;3236.06
+Dr. Carlos Eduardo Carvalho;36204517880;Residencial de Cunha;Beija Flor;Cavalcanti de Goiás;DF;81 0185 9015;portomaria-sophia@ig.com.br;11;45d9a334-d966-4016-ba46-afcdebcdb8cd;16/09/2024;4104.89
+Davi Luiz da Rosa;8735426144;Colônia Ian Aragão, 105;Mirante;Melo;MA;41 1484-3493;joao-miguel16@ramos.br;9;f92a2807-c50d-4d31-8b3b-4ddd0a3868df;22/11/2025;3556.17
+Heitor Cunha;16790324534;Setor de Pires, 96;Andiroba;Azevedo da Mata;SP;+55 41 97874-5612;carvalhoevelyn@ig.com.br;2;b49d0a09-8a48-43ca-9da9-e62e931c0b21;23/06/2025;2732.64
+Eduarda Moraes;71483509648;Viaduto de Souza, 65;Vila Puc;Peixoto;MG;+55 (061) 3440 1946;joao-miguelcunha@bol.com.br;7;7c1ce93d-bb09-4c03-a484-0d698b362d93;05/02/2026;1355.19
+Manuela Monteiro;93628714087;Rodovia Vieira, 84;Delta;Dias;AC;(011) 99986-5999;barrosvitor-gabriel@ig.com.br;7;90b825ad-12a0-479d-9736-c27a595eaf33;20/09/2024;2577.25
+Olivia Alves;90126785368;Loteamento de Jesus, 324;Vila Piratininga Venda Nova;Cunha de Costela;RN;(021) 2159 3989;maria-vitoria11@hotmail.com;4;25b2f8b7-4e38-40ab-b7a3-8501593aca1b;24/12/2024;1282.8
+Vitória Novaes;28390465710;Aeroporto Nathan Gomes, 9;Boa União 2ª Seção;da Cunha;MA;+55 41 7916-4339;emanueloliveira@goncalves.br;9;4bf5dc5c-c428-41ae-890f-939bf938426d;28/08/2025;225.49
+Gustavo Henrique Costa;60847153207;Estação Eduardo Costela;Conjunto Capitão Eduardo;Farias;MA;(081) 1105-6299;juliana60@yahoo.com.br;4;c606d103-b4f8-4d61-876e-85edcc56e1b5;06/10/2024;4475.54
+Fernanda Rocha;58140937223;Lagoa Duarte, 5;Olaria;da Cruz Verde;AC;+55 21 2696 6117;andre66@bol.com.br;1;594e91f8-97e7-4799-bca6-c69c6a3fd171;17/01/2025;4613.52
+Daniel Silveira;94851760310;Largo de Pereira, 29;Cardoso;da Cruz;SC;(081) 2538 7134;rodriguescatarina@aragao.com;11;226bd987-ef0d-475f-a34f-de1a7263b267;07/01/2025;1563.35
+Eduarda das Neves;76502314961;Morro da Rocha, 13;Vila Nova Dos Milionarios;da Rocha Paulista;SE;+55 (081) 9900-6020;tmartins@azevedo.br;9;3a202235-cc1a-4923-a345-4150ae3537c2;13/05/2024;3197.79
+Alana Fernandes;93410672869;Largo Rafaela da Luz, 292;São Bernardo;Gonçalves da Mata;AC;+55 (051) 8824 3766;cavalcantiisabelly@moura.com;8;6368dab8-9464-4aef-83ef-77b863255d81;07/06/2024;314.1
+Lorenzo Ribeiro;93581702630;Alameda Beatriz Gomes, 55;Marçola;Monteiro do Sul;MT;+55 (061) 7992-0983;ana-beatriz13@yahoo.com.br;1;8464849f-da35-4d0b-890d-aa97049a7472;11/08/2025;2394.57
+Valentina Silva;35740192897;Colônia Caldeira, 4;Ademar Maldonado;Ribeiro;PB;51 1557 2230;muriloda-luz@uol.com.br;10;8c61fd95-94e8-43f1-9364-0427247750a2;18/02/2026;1037.8
+Thiago Oliveira;61528043707;Fazenda Pedro Henrique Almeida, 12;Liberdade;Sales de Cunha;RR;+55 41 5686-8939;da-mataian@hotmail.com;5;1b563a6a-a1e4-4376-ac1b-8affe7ae6d47;07/06/2024;4849.23
+Cecília Freitas;51289643024;Rua Correia, 25;Vila Jardim Leblon;da Cruz de Lopes;MA;+55 (041) 9673 4207;caiofarias@bol.com.br;9;ea9fd852-d18a-46f9-ba26-fb0a56d81ac1;02/06/2024;786.29
+Natália Vieira;63578429074;Vale Vieira, 82;Olhos D'água;Campos;SP;+55 41 97679-3778;da-conceicaokevin@bol.com.br;8;e6469d5f-2fb7-4a58-8496-6a555aaf7382;15/11/2024;2816.64
+João Vitor Araújo;8769142378;Favela Sales, 46;Novo Das Industrias;Almeida do Galho;AC;+55 84 1134 9052;cauealves@ig.com.br;8;85554813-ea7e-450c-9a83-b8377331b654;29/03/2024;4436.42
+Yago Correia;73645082107;Residencial Enzo Nogueira;Olhos D'água;Ribeiro;MA;84 7647-8039;carolina20@gmail.com;10;3d388b6a-854e-4ba2-9300-85affba1ebcd;14/03/2025;737.65
+Otávio Oliveira;42087319588;Estrada Alexia Gonçalves, 92;Capitão Eduardo;Azevedo da Mata;AL;+55 (021) 7627-4917;brenda06@yahoo.com.br;1;cf71d909-022b-46b4-90a6-e82607006d33;26/05/2025;4649.15
+Francisco Barbosa;62870519303;Distrito de Rezende, 918;Barão Homem De Melo 3ª Seção;Moraes;RN;+55 (061) 9406 7830;diegocorreia@pereira.com;9;2b615dd6-f796-4558-ade9-c61faf29b702;27/01/2025;2248.65
+Srta. Ana Vitória Moraes;37256108940;Vereda de Araújo, 525;São Paulo;Rocha;ES;51 99188 9610;franciscorodrigues@cavalcanti.br;3;2e752604-dbe8-4fa6-84bb-0a83a0bdf483;10/08/2024;667.47
+Lara Moura;28370465153;Jardim de Araújo, 82;São Tomaz;Nascimento;AL;+55 (071) 2400-8391;vieirahelena@hotmail.com;1;20d2fc43-745f-4e63-9968-dbd0e65a8377;23/11/2025;1701.0
+Eloah Lima;51048692370;Chácara Marcos Vinicius Dias;Dom Bosco;Freitas;BA;61 3842 0700;apereira@bol.com.br;12;fae29747-6d5b-4d65-99dd-1b7ff2de6b93;09/02/2025;4054.0
+Luna Santos;75180296340;Passarela Araújo, 7;Bela Vitoria;Costela do Galho;SE;(071) 4813 6992;ialves@hotmail.com;12;32c1c09e-1bf3-4fcf-8dcf-075631564916;01/07/2024;3665.66
+Maria Julia Fernandes;93145687255;Distrito Rocha, 42;Santana Do Cafezal;Rocha da Praia;RN;+55 81 4674 4531;gnunes@nascimento.com;4;440ddc30-dc88-4386-aa3c-3ba5f44a959c;24/11/2025;192.23
+Srta. Ana Lívia Carvalho;51876394200;Pátio de Almeida;Vila Nova Gameleira 2ª Seção;Moraes;MA;+55 (081) 2592-6578;rochacalebe@uol.com.br;8;b7b7f1f9-eae0-4b26-befe-e71c53e87e1c;26/12/2025;1204.87
+Marina Farias;83956742109;Alameda Yago Monteiro, 95;Dom Cabral;Almeida da Praia;GO;(071) 6519 7104;gcaldeira@da.br;1;368ca048-a1a6-4a05-b8a4-d5acd7357863;23/07/2024;3767.52
+Laís Santos;42981376519;Ladeira Santos, 29;Jardim América;Fernandes;AC;(031) 4002-4470;uaragao@ig.com.br;5;45094ab6-8512-401a-a089-aac1009a1cdd;10/05/2025;1480.48
+Camila Ribeiro;68513720968;Pátio Pedro Miguel Carvalho, 37;Vila Sesc;da Conceição;CE;+55 (011) 9297-4092;emilly34@gmail.com;4;94534e94-ced1-4ee0-91ff-474b512295d7;25/05/2024;71.02
+Laís Rocha;51270368435;Rua Luiz Felipe Costa, 81;Vila Do Pombal;Aragão;MG;+55 21 7014 6778;caldeiravitor-hugo@ig.com.br;11;fc868a9a-6ab8-4c9a-abd1-100c4c8f6109;14/06/2025;2548.83
+Marcela Sales;49370581260;Área Bryan Porto, 161;Delta;Cardoso de Mendes;PB;+55 (081) 7830 1316;vteixeira@bol.com.br;2;2e30f3ca-848d-471f-b922-3b887fd0f1b2;04/02/2026;2192.4
+Maria Sophia Carvalho;37256809492;Trevo Maysa Moraes;Vila Barragem Santa Lúcia;Duarte;SE;41 6723 4705;gomesnina@hotmail.com;1;3c8bf50f-8c2e-4ed2-8dd0-e9caac2a811e;11/01/2026;1073.0
+Sofia Cunha;69480351757;Jardim Letícia Jesus, 679;Vila Ouro Minas;Nascimento de Costela;AC;84 9447 7150;mariane63@yahoo.com.br;11;50e79bc3-5635-46a2-a3fc-f03644f14189;02/03/2025;1360.62
+Maria Sophia Lima;82145396764;Parque da Luz, 449;Jaqueline;Ramos;SC;+55 81 2133 8100;isabel28@das.com;9;341f14fd-3486-451f-8c6c-8252eed08da0;17/09/2024;2677.89
+Ana Beatriz Nascimento;93608572465;Núcleo Isabella Ribeiro, 86;Paulo Vi;Porto;MA;14 99235 4446;gustavomartins@fernandes.br;12;91cad501-3783-40bb-9f47-afa4146fca56;28/06/2024;4394.12
+Srta. Eloah Melo;14236789582;Lagoa Valentina Vieira, 466;São Jorge 2ª Seção;Oliveira do Amparo;MT;+55 21 7541-1855;larissa55@vieira.net;3;dc967806-89f9-4cc2-8efc-79357db8e353;26/06/2024;365.93
+Gustavo Henrique Dias;83750129630;Avenida de Fogaça, 35;Bacurau;Almeida;ES;(011) 99743-1378;vicente64@yahoo.com.br;7;2021dc6c-2971-403e-ae71-8ccdb8ffdc12;31/03/2024;3411.6
+Sr. Leandro Barros;39476021896;Alameda Juliana Nunes, 47;Coqueiros;Ferreira de Correia;AP;21 7778 6216;bporto@da.com;6;7da7559a-235f-4b0f-872f-79890639d501;10/01/2026;3235.02
+Pietro Rocha;49087625111;Avenida de Vieira, 69;Cinquentenário;Duarte;DF;+55 41 97101-3514;nicolemonteiro@ramos.net;7;72f689be-051d-4505-9198-b263cc0fa0dc;27/12/2024;3138.95
+Beatriz Fernandes;92654730883;Viaduto da Conceição, 66;Novo Tupi;Novaes da Prata;RN;71 4357 7517;portovitor@gmail.com;6;71f337ab-ccdb-4201-8948-e13036d11344;01/12/2024;3969.15
+Dr. Daniel Lima;1569843260;Ladeira de Sales, 55;Alto Dos Pinheiros;Fogaça do Amparo;DF;+55 (071) 8049-9655;zcavalcanti@da.org;8;c5abfd7e-4dee-4ab4-abf6-1e51aa50bb5c;02/08/2024;3707.04
+Brenda Peixoto;12046857380;Campo de Cavalcanti, 29;Minaslandia;Rodrigues de Araújo;AM;(084) 5340-6712;emanuelly36@lopes.br;8;4f440493-099c-49a8-9bea-099159c26672;16/11/2024;3800.98
+Sr. João Miguel Nogueira;37219645007;Aeroporto de Peixoto;Acaba Mundo;Barros;AP;84 3473-2498;kcorreia@gmail.com;11;43af217e-4938-4d7f-9660-27e64f9d3281;19/02/2025;3168.76
+Juan Lima;76183920487;Feira Sales;Grotinha;Costa;RS;(011) 99121-7681;moraeslais@uol.com.br;12;08345fed-148d-46e4-bcb6-fedc21f7a9ff;08/03/2025;4152.82
+Srta. Laís Nogueira;61789450276;Vale de Moreira, 65;Maravilha;da Rosa de Viana;RS;+55 71 6009 1640;carlos-eduardo65@bol.com.br;11;459b3f0c-8729-4549-9dd5-a5fe5e9a16b1;11/01/2025;3279.53
+Yago Vieira;98571246076;Esplanada de Cardoso, 501;Dom Silverio;Santos;RS;(071) 3298-1931;gcosta@gmail.com;9;27fed69f-f800-4025-9e43-ba83125a93d2;06/12/2024;760.98
+Maria Eduarda Sales;17692850321;Condomínio Bianca Rezende, 89;Vila Madre Gertrudes 4ª Seção;Nogueira Verde;TO;84 1662-4755;barrosheitor@campos.net;7;e7a84f5c-9e4e-45e3-b9e0-512657212c15;23/12/2024;147.11
+Ana Julia Sales;70823596168;Residencial Benjamin Monteiro;Pirineus;Alves;MA;+55 (071) 3308-0286;eduardooliveira@cardoso.com;8;f603d42f-6e3e-4792-81e7-1ad7bbbcd869;18/10/2024;3898.96
